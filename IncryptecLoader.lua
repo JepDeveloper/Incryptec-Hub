@@ -1,6 +1,6 @@
 if game.PlaceId == 155615604 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Incryptec Hub - Prison Life", "Sentinel")
+    local Window = Library.CreateLib("Incryptec Hub - Prison Life", "DarkTheme")
 
     -- MAIN
     local Main = Window:NewTab("Main")
@@ -45,7 +45,7 @@ if game.PlaceId == 155615604 then
     end)
 elseif game.PlaceId == 3956818381 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Incryptec Hub -Ninja Legends", "Sentinel")
+    local Window = Library.CreateLib("Incryptec Hub - Ninja Legends", "DarkTheme")
 
     -- MAIN
     local Main = Window:NewTab("Main")
